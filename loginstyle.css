@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding:0;
+}
+.backgroundlogin{
+    background-image: url(image4copy.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+    
+}
+.backlogin2{
+    background-color: black;
+    margin-top:-540px;
+    width:1200px;
+    height:530px;
+    margin-left:37px;
+    border-radius: 6px;
+}
+body{
+    font-family:"Poppins",sans-serif;
+}
+.signin{
+    font-family:"Poppins",sans-serif;
+    color:white;
+    letter-spacing: 1px;
+    margin-left:120px;
+    padding: 90px;
+}
+.images{
+    display:flex;
+    flex-direction: row;
+    width:2px;
+    margin-left:210px;
+    margin-top:-80px;
+    cursor: pointer;
+
+}
+.logos{
+    width:32px;
+    height:22px;
+    margin-left:12px;
+}
+span{
+    color:red;
+}
+.para{
+    color:white;
+    display: flex;
+    flex-direction: row;
+    margin-top:20px;
+    margin-left:180px;
+}
+.mailid{
+    margin-left:78px;
+    margin-top:30px;
+    width:380px;
+    height:28px;
+    border-radius:4px;
+    border-width: 0;
+    background-color: #F6F5F7;
+    
+
+}
+.password{
+  margin-left:76px;
+  margin-top:30px;
+  width:386px;
+  height:28px;
+  border-radius: 4px;
+  border-width:0px; 
+  
+}
+.signbutton{
+    height:30px;
+    width:100px;
+    background-color: red;
+    color:white;
+    margin-left:199px;
+    margin-top:20px;
+    border-radius: 4px;
+    border-width: 0;
+    cursor: pointer;
+}

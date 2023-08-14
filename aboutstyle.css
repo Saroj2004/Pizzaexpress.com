@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+.backg{
+   background-color: whitesmoke;
+   height: 100vh;
+   background-size: cover;
+}
+.pizza{
+ 
+    background-color: black;
+    height:440px;
+    width:1164px;
+    margin-top:-500px;
+    margin-left:50px;
+    border-radius: 9px;;
+    
+}
+

@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mrback{
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+}
+.mrback2{
+    background-color:orangered;
+    height:300px;
+    width:500px;
+    margin-left:380px;
+    border-radius: 7px;
+   
+    margin-top:-420px;
+}
